@@ -1,0 +1,28 @@
+### get all data
+GET http://localhost:3000/items
+
+### get all data about first book
+GET http://localhost:3000/item/1
+
+###  Add new book
+POST http://localhost:3000/item
+Content-Type: application/json
+
+{
+  "name": "Diary of a Wimpy Kid",
+  "author": "Jeff Kiney",
+  "year": 2007
+}
+
+### Update Data
+PUT http://localhost:3000/item/12
+Content-Type: application/json
+
+{
+  "name": "Diary of a Wimpy Kid",
+  "author": "Jeff Kinney",
+  "year": 2007
+}
+
+### Delete book for his id
+DELETE  http://localhost:3000/item/10

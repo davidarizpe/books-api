@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "year": 1954
+  },
+  {
+    "id": 2,
+    "title": "The Return of the King",
+    "author": "J.R.R. Tolkien",
+    "year": 1955
+  },
+  {
+    "id": 3,
+    "title": "The Two Towers",
+    "author": "J.R.R. Tolkien",
+    "year": 1954
+  },
+  {
+    "id": 4,
+    "title": "The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "year": 1954
+  },
+  {
+    "id": 5,
+    "title": "Attomic Habit",
+    "author": "James Clear",
+    "year": 2018
+  },
+  {
+    "id": 6,
+    "title": "The 4-Hour Workweek",
+    "author": "Timothy Ferriss",
+    "year": 2007
+  },
+  {
+    "id": 7,
+    "title": "Rich Dad, Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "year": 1997
+  },
+  {
+    "id": 8,
+    "title": "Think and Grow Rich",
+    "author": "Napolean Hill",
+    "year": 1937
+  },
+  {
+    "id": 9,
+    "title": "The monk who sold his Ferrari",
+    "author": "Robin Sharma",
+    "year": 2016
+  },
+  {
+    "id": 10,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988
+  },
+  {
+    "id": 11,
+    "title": "the richest man in babilonia",
+    "author": "George S. Clason",
+    "year": 1990
+  },
+  {
+    "id": 12,
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "year": 1996
+  }
+]
