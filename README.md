@@ -11,12 +11,12 @@ A simple api about diferents books easily modifiable, was created with bun and t
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/project-name.git
+    git clone https://github.com/davidarizpe/books-api
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd project-name
+    cd books-api
     ```
 
 3. Install the dependencies:
